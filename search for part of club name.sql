@@ -1,1 +1,0 @@
-select name from football_clubs where name like 'ars%'
