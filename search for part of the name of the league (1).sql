@@ -1,1 +1,0 @@
-select name from trophie where name like '%cup%' group by name
