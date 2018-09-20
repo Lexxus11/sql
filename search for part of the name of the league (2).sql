@@ -1,1 +1,0 @@
-select stadium from football_clubs where stadium like 'all%'
