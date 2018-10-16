@@ -7,3 +7,5 @@ order by l.name
 select stadium from football_clubs where stadium like 'all%'
 
 select name from trophie where name like '%cup%' group by name
+
+https://github.com/Lexxus11/sql.git
